@@ -17,9 +17,9 @@
 
 4.  Cargo Analysis
 
-5.  Geographical Analysis *(Note: Original had 6, I'm assuming this was meant to be 5 or a typo)*
+5.  Geographical Analysis 
 
-6.  Putting It All Together *(Note: Original had 7, adjusting based on above)*
+6.  Putting It All Together 
     *   Provide an analysis of vessels that loaded cargo in Southeast Asia between August 20, 2024 and August 24, 2024.
         *   What cargo was loaded onto these vessels?
         *   What are the top 2 exports from each country in Southeast Asia?
