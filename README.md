@@ -37,13 +37,13 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns'''
+import seaborn as sns```
 
 Upload vessel_charachteristics.csv and vessel_positions.csv to directory
 ![image](https://github.com/user-attachments/assets/94d956bc-67d8-496a-baba-25ceaf34c6b5)
 
-
 ## Running
+
 
 run all the cells for the desired output 
 
