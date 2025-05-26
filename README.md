@@ -6,7 +6,7 @@
 
 1.  Data Loading and Cleaning
 
-2.  Exploratory Analysis
+2.  Exploratory Analysis <br/>
     *   `vessel_operational_status`
     *   `ais_speed`
     *   `ais_draft`
@@ -34,10 +34,12 @@
 **1. Import necessary packages:**
 
 
+```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+```
 
 Upload vessel_charachteristics.csv and vessel_positions.csv to directory
 ![image](https://github.com/user-attachments/assets/94d956bc-67d8-496a-baba-25ceaf34c6b5)
