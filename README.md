@@ -1,6 +1,6 @@
 # profision_task
 
-`profision.ipynb` contains all the tasks in order (Task 1 -> Task 6).
+`profision.ipynb` & `profision_venv.ipynb` contains all the tasks in order (Task 1 -> Task 6).
 
 ### Task Overview:
 
@@ -29,10 +29,17 @@
 
 ---
 
-## Getting Started
+## Getting Started (profision_venv.ipynb)
+
+**1. Mount Google Drive and give access**<br/>
+**2. Specify venv path from your google drive folder or it makes directory automatically**<br/>
+**3. install necessary packages (already specified in nb)** <br/>
+Upload vessel_charachteristics.csv and vessel_positions.csv directly to colab notebook<br/>
+![image](https://github.com/user-attachments/assets/94d956bc-67d8-496a-baba-25ceaf34c6b5)
+
+## Getting Started (profision.ipynb)
 
 **1. Import necessary packages:**
-
 
 ```python
 import numpy as np
