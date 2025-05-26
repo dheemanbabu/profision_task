@@ -1,6 +1,6 @@
 # profision_task
 
-`profision.ipynb` contains all the tasks in order (Task 1 -> Task 7).
+`profision.ipynb` contains all the tasks in order (Task 1 -> Task 6).
 
 ### Task Overview:
 
