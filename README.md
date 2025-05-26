@@ -11,8 +11,8 @@
     *   `ais_speed`
     *   `ais_draft`
 
-3.  Add New Dimension
-    ![image](https://github.com/user-attachments/assets/b06f453e-7451-4da5-898f-39f52ee07eb2)
+3.  Add New Dimension<br/>
+    ![image](https://github.com/user-attachments/assets/b06f453e-7451-4da5-898f-39f52ee07eb2)<br/>
     *   Create a new column called `vessel_class` that maps each vessel to one of the above size categories.
 
 4.  Cargo Analysis
@@ -41,7 +41,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-Upload vessel_charachteristics.csv and vessel_positions.csv to directory
+Upload vessel_charachteristics.csv and vessel_positions.csv to directory<br/>
 ![image](https://github.com/user-attachments/assets/94d956bc-67d8-496a-baba-25ceaf34c6b5)
 
 ## Running
